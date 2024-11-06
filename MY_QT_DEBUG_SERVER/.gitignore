@@ -71,4 +71,12 @@ CMakeLists.txt.user*
 # --------
 *.dll
 *.exe
+# Qt build directories
+build-*/
+
+# CMake build directories
+CMakeLists.txt.user
+*.pro.user
+*.qmake.stash
+*.qmake.cache
 
